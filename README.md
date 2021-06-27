@@ -1,3 +1,14 @@
+# Temporary fork of LSPSaga
+
+Currently only a temporary fork of [lspsaga](https://github.com/glepnir/lspsaga.nvim)
+
+the maintainer is currently away. SEE: [note](https://github.com/glepnir/lspsaga.nvim/pull/207#issuecomment-863150249)
+
+### Credit:
+Patches Applied:
+[#207](https://github.com/glepnir/lspsaga.nvim/pull/207)
+
+
 # lspsaga.nvim
 
 A light-weight lsp plugin based on neovim built-in lsp with highly a performant UI.
